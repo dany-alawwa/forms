@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  forms_name: MyString
+  forms_description: MyText
+  forms_date: 2014-05-11 02:07:30
+  forms_number: 1
+
+two:
+  forms_name: MyString
+  forms_description: MyText
+  forms_date: 2014-05-11 02:07:30
+  forms_number: 1
